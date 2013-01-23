@@ -1,0 +1,32 @@
+.Input(o => o.a);
+.Input(o => o.b);
+.Input(o => o.5);
+.Input(o => o.c);
+.Input(o => o.g);
+.Input(o => o.a);
+.Input(o => o.df);
+.Input(o => o.as);
+.Input(o => o.gf);
+.Input(o => o.bv);
+.Input(o => o.y);
+.Input(o => o.u);
+.Input(o => o.i);
+.Input(o => o.d);
+.Input(o => o.s);
+
+<hey, interlude>
+
+.Input(o => o.a);
+.Input(o => o.a);
+.Input(o => o.a);
+.Input(o => o.fd);
+.Input(o => o.vc);
+.Input(o => o.cx);
+.Input(o => o.z);
+
+<and again>
+
+.Input(o => o.ds);
+.Input(o => o.cx);
+.Input(o => o.vc);
+.Input(o => o.fd);

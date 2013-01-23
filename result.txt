@@ -1,0 +1,2 @@
+Usage: perl CodeQuickSort.pl regex=<regex> regexflags=<regexflags> < <file to transform> > <data output>. 
+Note: The regex must contain one match pair of parantheses, the code rows will be sorted based on the content of these parantheses! 
